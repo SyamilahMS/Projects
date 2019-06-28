@@ -5,15 +5,18 @@ This project mainly focuses on exploratory data analysis or EDA, which is a sign
 
 #### Here are the links to the CSV files for this project:
 
-[SAT scores](https://github.com/SyamilahMS/Projects/blob/master/Project-2/sat_scores.csv) 
-, [Drug Use By Age]
+File 1: [SAT scores]
+(https://github.com/SyamilahMS/Projects/blob/master/Project-2/sat_scores.csv) 
+
+File 2 - [Drug Use By Age]
 (https://github.com/SyamilahMS/Projects/blob/master/Project-2/drug-use-by-age.csv)
 
 ----
 ## Author(s) 
 * [Syamilah Sirat](https://github.com/SyamilahMS)
 * Also, with the help of a fellow classmate - 
- Miss [Haziqah Nasser] (https://github.com/HaziqahNasser)
+ Miss [Haziqah Nasser]
+(https://github.com/HaziqahNasser)
 
 ----
 ## Acknowledgments 
