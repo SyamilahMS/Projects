@@ -15,11 +15,11 @@ File 2 [Drug Use By Age](https://github.com/SyamilahMS/Projects/blob/master/Proj
 ----
 ## Author(s) 
 * [Syamilah Sirat](https://github.com/SyamilahMS)
-* Also, with the help of a fellow classmate 
- Miss [Haziqah Nasser](https://github.com/HaziqahNasser)
 
 
 ## Acknowledgments 
+* Also, with the help of a fellow classmate 
+ Miss [Haziqah Nasser](https://github.com/HaziqahNasser)
 * [Python documentation](https://docs.python.org/3/library/csv.html)
 * Peter Wentworth, Jeffrey Elkner, Allen B. Downey & Chris Meyers, 2012 (https://howtothink.readthedocs.io/en/latest/PvL_H.html)
 * Inspiration [Chris Albon](https://chrisalbon.com/) 
